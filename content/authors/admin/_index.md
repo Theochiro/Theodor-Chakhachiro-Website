@@ -35,9 +35,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'  # For a direct email link, use "mailto:tgc02@mail.aub.edu".
-# - icon: youtube
-#  icon_pack: fab
-#  link: https://www.youtube.com/channel/UCe653qSxcyjLPcWxa6GNiYg
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UCe653qSxcyjLPcWxa6GNiYg
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -58,9 +58,9 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
+---
 I am a fresh mechanical engineering graduate from the American University of Beirut and currently working as a Research Assistant at the Vision and Robotics Lab at AUB.
 Throughout my undergraduate career, I developed a deep and passionate interest in the field of Robotics and Control Systems. My knowledge in this field is always expanding, whether by working on several projects or by working on my research topics. I am always looking for ways to increase my knowledge in Robotics and hopefully implement it for good use in this world.
----
