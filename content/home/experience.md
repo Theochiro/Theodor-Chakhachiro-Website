@@ -25,11 +25,6 @@ date_format = "Jan 2006"
   date_start = "2018-12-22"
   date_end = "2019-08-25"
   description = """
- # Responsibilities include:
-  
- # * Analysing
- # * Modelling
- # * Deploying
   """
 
 [[experience]]
