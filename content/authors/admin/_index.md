@@ -35,9 +35,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'  # For a direct email link, use "mailto:tgc02@mail.aub.edu".
-- icon: youtube
-  icon_pack: fab
-  link: https://www.youtube.com/channel/UCe653qSxcyjLPcWxa6GNiYg
+# - icon: youtube
+#  icon_pack: fab
+#  link: https://www.youtube.com/channel/UCe653qSxcyjLPcWxa6GNiYg
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
