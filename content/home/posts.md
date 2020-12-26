@@ -54,7 +54,8 @@ subtitle = ""
   
   # Background image.
    image = "background.jpg"  # Name of image in `static/media/`.
-   image_darken = 0.3  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+   <a href="url"><img src="https://github.com/Theochiro/Theodor-Chakhachiro-Website/blob/master/static/media/background.jpg" align="left" height="48" width="48" ></a>
+   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
    text_color_light = true  
