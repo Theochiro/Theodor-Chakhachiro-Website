@@ -31,12 +31,6 @@ subtitle = ""
   icon_pack = "fas"
   name = "Time Management"
   description = "90%"
-  
-[[feature]]
-  icon = "overleaf"
-  icon_pack = "ai"
-  name = "Overleaf"
-  description = "90%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
