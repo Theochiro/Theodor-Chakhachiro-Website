@@ -62,6 +62,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
 I am a fresh mechanical engineering graduate from the American University of Beirut and currently working as a Research Assistant at the Vision and Robotics Lab at AUB.
 Throughout my undergraduate career, I developed a deep and passionate interest in the field of Robotics and Control Systems. My knowledge in this field is always expanding, whether by working on several projects or by working on my research topics. I am always looking for ways to increase my knowledge in Robotics and hopefully implement it for good use in this world.
