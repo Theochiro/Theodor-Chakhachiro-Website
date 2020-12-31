@@ -14,7 +14,7 @@ organizations:
   url: "https://aub.edu.lb/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include robotics, mechatronics and control systems.
+bio: 
 
 interests:
 - Control Systems
@@ -34,7 +34,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:tgc02@mail.aub.edu".
+  link: '/#contact'  # For a direct email link, use "mailto:chakhachirotheodor@gmail.com".
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCe653qSxcyjLPcWxa6GNiYg
@@ -56,9 +56,9 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-# - Researchers
-# - Visitors
+#user_groups:
+#- Researchers 
+#- Visitors
 ---
 I am a fresh mechanical engineering graduate from the American University of Beirut and currently working as a Research Assistant at the Vision and Robotics Lab at AUB.
 Throughout my undergraduate career, I developed a deep and passionate interest in the field of Robotics and Control Systems. My knowledge in this field is always expanding, whether by working on several projects or by working on my research topics. I am always looking for ways to increase my knowledge in Robotics and hopefully implement it for good use in this world.
