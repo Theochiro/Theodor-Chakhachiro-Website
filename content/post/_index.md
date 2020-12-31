@@ -9,7 +9,7 @@ view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
+  caption: "Easy"
   image: ""
 ---
 Since I joined the Vision and Robotics Lab at the American University of Beirut in the fall of 2019, during my second year as an undergraduate mechanical engineer, my research with Prof. Daniel Asmar and Ms. Rema Daher is focused on SLAM mapping – mainly on improving and evaluating the current multiple mapping algorithms.
