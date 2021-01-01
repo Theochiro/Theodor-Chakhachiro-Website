@@ -3,11 +3,11 @@
 
 title: "A Comparative Assessment of Map Alignment Techniques"
 authors: [Rema Daher, Theodor Chakhachiro, Daniel Asmar]
-date: 2020-12-31T12:22:59+02:00
+date: 2019-12-05T12:22:59+02:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-12-31T12:22:59+02:00
+publishDate: 2019-12-05T12:22:59+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

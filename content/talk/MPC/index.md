@@ -17,8 +17,9 @@ url_video = "https://youtu.be/2pf16nbbqHI"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "convexMPC.png"
+image = ""
 caption = ""
-focal_point = "Smart"
+focal_point = ""
+preview_only = "true"
 
 +++

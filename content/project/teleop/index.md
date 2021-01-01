@@ -7,8 +7,8 @@ summary: " "
 authors: []
 tags: []
 categories: []
-date: 2020-12-31T08:11:38+02:00
-lastmod: 2020-12-31T08:11:38+02:00
+date: 2019-12-11T08:11:38+02:00
+lastmod: 2019-12-11T08:11:38+02:00
 featured: true
 draft: false
 
@@ -17,7 +17,7 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: "Smart"
+  focal_point: "Top"
   preview_only: false
 
 url_pdf: https://theodorchakhachiro.files.wordpress.com/2020/10/final-report-teleoperation-system.pdf

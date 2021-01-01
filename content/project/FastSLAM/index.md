@@ -7,8 +7,8 @@ summary: " "
 authors: []
 tags: [SLAM]
 categories: []
-date: 2020-12-31T08:11:38+02:00
-lastmod: 2020-12-31T08:11:38+02:00
+date: 2020-12-05T08:11:38+02:00
+lastmod: 2020-12-05T08:11:38+02:00
 featured: true
 draft: false
 
@@ -18,7 +18,7 @@ draft: false
 image:
   caption: ""
   focal_point: "Smart"
-  preview_only: false
+  preview_only : false
 
 url_pdf: 
 url_code:
