@@ -68,7 +68,18 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-Minimizing Length
+**Minimizing Length Matlab**
+---------------
 ![](Minimizinglength.gif)
-Minimizing Time
+
+**Minimizing Length Gazebo**
+---------------
+{{<video src="length.mp4" controls="yes" >}}
+
+**Minimizing Time Matlab**
+---------------
 ![](Minimizingtime.gif)
+
+**Minimizing Time Gazebo**
+---------------
+{{<video src="time.mp4" controls="yes" >}}
