@@ -19,20 +19,12 @@ publication_types: ["7"]
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
-
-abstract: "SLAM research is embarking on a new path, where focus is directed towards improving
-SLAM map quality and visual aesthetics. This new interest of improving
-maps is due to their various applications in localization and beyond. These applications
-can be found in many fields such as data science, navigation, search
-and rescue, architecture, intelligent transportation systems, and AR/VR. In this
-work, a framework will be introduced that automatically generates SLAM maps
-and another that automatically removes deformations and errors in these maps
-and generates an improved version."
+abstract: "Simultaneous Localization and Mapping (SLAM) has been mostly used for the purpose of localization. Recently, more research has been focused on the quality of generated SLAM maps and their uses. Robotic maps can be utilized in various applications such as intelligent transportation systems, Augmented and Virtual Reality (AR/VR), and search and rescue. In these applications, the accuracy and precision of the map can be very important. Today robotic maps have several sources of errors and deformations. To resolve these anomalies, a necessary analysis and modeling of these maps is in order. In this work, a parametric model is first formulated that represents the local deformations in the map. In addition to that, a generative adversarial network (GAN) is also used to learn these deformations through training the dataset generated in this thesis. Both methods generated promising results. The parametric approach offered multiple possible outputs with user defined trajectories, didn't remove important structural elements, didn't exaggerate the SLAM errors, and deformed the unoccupied cells in a more geometric manner as opposed to the performance of the machine learning method. However, the machine learning approach modeled the simulated SLAM map's sudden brokenness, large room shifts, removal of walls, and the shrinkage and expansion of rooms better than the parametric approach did. On a more general note, both methods act as a more efficient alternative to real time simulations, which are used for tasks such as navigation experiments, employee field training, and video-gaming. Finally, more interesting is the inverse problem, where the network is trained to generate correct CAD maps from SLAM maps. This can be utilized to automatically enhance SLAM maps in real time and pave the way to the improvement of localization by it's reliance on a more accurate map. As for the results, the qualitative results showed improvement in aspects such as straightening walls, removal of noise, addition of missed walls/objects, and correction of wall positions of the SLAM maps to resemble CAD maps. Quantitatively, 75% of the test map structures were improved and the other 25% did not portray or learn the shrinkage and expansion of maps perfectly. Finally, the machine learning models, whether in generating SLAM maps or CAD maps, offer more promise in the future with the expansion of the dataset, addition of new features, use of feature analysis tools, and use of different architectures, which might induce a deeper learning; specifically in the task of generating SLAM maps, where there are possibly missing features in the parametric model approach."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [SLAM]
+tags: [SLAM,Machine Learning]
 categories: []
 featured: true
 
@@ -44,13 +36,13 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://theodorchakhachiro.files.wordpress.com/2020/12/rema_daher_thesis.pdf
+url_pdf: https://theodorchakhachiro.files.wordpress.com/2021/01/maptomapfromslamtocadmapsandbackusinggenerative_daherr_2020-1.pdf
 url_code:
 url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: https://scholarworks.aub.edu.lb/handle/10938/22162
 url_video:
 
 # Featured image
