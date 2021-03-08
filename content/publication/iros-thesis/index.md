@@ -36,7 +36,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://theodorchakhachiro.files.wordpress.com/2021/01/maptomapfromslamtocadmapsandbackusinggenerative_daherr_2020-1.pdf
+url_pdf: https://theodorchakhachiro.files.wordpress.com/2021/03/iros_2021_thesis_paper-2.pdf
 url_code:
 url_dataset:
 url_poster:
